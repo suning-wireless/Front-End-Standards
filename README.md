@@ -99,6 +99,9 @@
 
 	body {min-width:320px;line-height:1.5;color:#333;background:#F2F2F2;}
 	.demo1 .list,.demo2 .list {display:inline-block;background:#F1F1F1;}
+	
+
+[javascript 书写风格规范](https://github.com/suning-wireless/Front-End-Standards/issues/1)
 
 ### 命名规则
 
@@ -194,3 +197,5 @@ http://image5.suning.cn/b2c/catentries/000000000106040162_1_200x200.jpg
 一个团队的代码风格如果统一了，首先可以培养良好的协同和编码习惯，其次可以减少无谓的思考，再次可以提升代码质量和可维护性。
 
 统一的代码风格，团队内部阅读或编辑代码，将会变得非常轻松，因为所有组员都处在一致思维环境中。 
+
+
