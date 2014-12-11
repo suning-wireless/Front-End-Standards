@@ -179,6 +179,7 @@ http://image5.suning.cn/b2c/catentries/000000000106040162_1_200x200.jpg
 
 - 缓存 DOM 选择与计算
 - 避免触发页面重绘的操作
+- `a 链接的区域一定要大,使用户有足够的操控区域`
 - Debounce连续触发的事件(scroll / resize / touchmove等)，避免高频繁触发执行 注意！
 - 尽可能使用事件代理，避免批量绑定事件
 - 使用CSS3动画代替JS动画
