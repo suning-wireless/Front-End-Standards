@@ -139,7 +139,7 @@ http://image5.suning.cn/b2c/catentries/000000000106040162_1_200x200.jpg
 
 
 
-## 常用静态资源
+## 常用静态资源，对应本地 common 文件夹路径
 
 
 	http://m.suning.com/RES/wap/
@@ -206,4 +206,4 @@ http://image5.suning.cn/b2c/catentries/000000000106040162_1_200x200.jpg
 
 统一的代码风格，团队内部阅读或编辑代码，将会变得非常轻松，因为所有组员都处在一致思维环境中。 
 
-
+[Code Guide](http://alloyteam.github.io/code-guide/)
