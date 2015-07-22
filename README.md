@@ -152,12 +152,7 @@ http://image5.suning.cn/b2c/catentries/000000000106040162_1_200x200.jpg
 			│	└──zepto/1.1.4/zepto.min.js [团队基础库,内置 $.cookie, artTemplate]
 			│
 			├── common/script/module/
-			│  ├── alertBox/
-			│  │      └──1.0.0/alertBox.js [通用弹窗]
-			│  ├── lazyload/
-			│  │		└──1.0.0/lazyload.js [通用懒加载]
-			│  ├── flipsnap/
-			│  │		└──0.6.2/flipsnap.js [多种滑动功能]
+			│  │		
 			│  └── swipe/
 			│		    ├──1.0.0/swipe.js [通用滑动 1.0.0 版本]
 			│			└──1.1.0/swipe.js [通用滑动 1.1.0 版本]
