@@ -163,6 +163,8 @@ http://image5.suning.cn/b2c/catentries/000000000106040162_1_200x200.jpg
 
 ## 移动性能优化
 
+[移动端前端性能优化规范 · 详细细则](https://github.com/suning-wireless/Front-End-Standards/issues/2)
+
 ### 发布前必要检查项
 
 - 所有非维护图片必须有进行过压缩
