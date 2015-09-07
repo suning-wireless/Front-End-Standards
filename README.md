@@ -106,6 +106,9 @@
 
 	body {min-width:320px;line-height:1.5;color:#333;background:#F2F2F2;}
 	.demo1 .list,.demo2 .list {display:inline-block;background:#F1F1F1;}
+
+
+[基于用户体验的前端开发规范](https://github.com/suning-wireless/Front-End-Standards/issues/3)
 	
 
 [javascript 书写风格规范](https://github.com/suning-wireless/Front-End-Standards/issues/1)
